@@ -1,0 +1,7 @@
+name: Rancher CLI
+description: |
+  Rancher CLI
+version: v0.6.1-rc2        # Keep this in sync with rancher/cli releases
+category: Framework
+labels:
+  io.rancher.certified: rancher
